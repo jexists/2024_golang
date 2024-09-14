@@ -7,5 +7,5 @@ func main() {
 	fmt.Println("|q p|   /}")
 	fmt.Println("( 0 )\"\"\"\\")
 	fmt.Println("|\"^\"`    |")
-	fmt.Println("||_/=\\__|")
+	fmt.Println("||_/=\\\\__|")
 }
